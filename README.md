@@ -13,3 +13,4 @@ A very small text editor written in Python3
 1. Python3
 2. python `prompt_toolkit`
 3. computer (linux)
+4. also I think `pyments` for python but maybe not idk I made this a while ago
