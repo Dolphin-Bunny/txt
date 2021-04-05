@@ -1,5 +1,5 @@
 # txt
-A very small text editor written in Python3
+A very small and probably very broken text editor written in Python3
 
 ## How to use
 
