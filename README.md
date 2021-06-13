@@ -1,6 +1,8 @@
 # txt
 A very small and probably very broken text editor written in Python3
 
+Why this was the only thing of mine included in the arctic archive thing is a mystery. I have several slightly less bad projects.
+
 ## How to use
 
 1. get the files onto your computer (download, clone, etc.)
